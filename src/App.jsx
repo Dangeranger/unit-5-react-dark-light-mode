@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
   return (
     <main>
-      Hello, Dark + Light Mode!
+      Hello class, React really is pretty cool!
     </main>
   )
 }
